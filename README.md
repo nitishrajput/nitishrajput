@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @nitishrajput
+- 👀 I’m interested in learning new concepts and technologies in machine learning and data science...
+- 💞️ I’m looking to collaborate on interesting ML based projects...
+- 📫 Reach me @ "nitish.rajput199.nr@gmail.com" ...
+
+<!---
+nitishrajput/nitishrajput is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
